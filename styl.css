@@ -1,0 +1,77 @@
+body{
+margin: 0;
+padding: 0;
+background-color: lightblue;
+}
+
+.header{
+color: blue;
+}
+
+.navbar{
+height: 50px;
+width: auto;
+flex: 50%
+background-color: lightblue;
+}
+
+.navbar a{
+padding:10px;
+text-decoration: none;
+float: right;
+color: blue;
+display: direction;
+}
+
+.navbar a: hover{
+border-box: box-sizing;
+transition: 0.6s;
+}
+
+.title{
+color: blue;
+position: absolute;
+height:  73px;
+width: 500px;
+text-align: center;
+border: solid;
+flex: center;
+top: 123px;
+left: 500px;
+background-color: lightblue;
+}
+
+.content1{
+position: absolute;
+top:   236px;
+left: 498px;
+background-color: lightblue;
+border: solid;
+flex: left;
+border-box: box-sizing;
+}
+
+.content2{
+position: absolute;
+top: 237px;
+left: 684px;
+background-color: lightblue;
+border: solid;
+flex: left;
+border-box: box-sizing;
+}
+
+.content3{
+position: absolute;
+top: 237px;
+left: 900px;
+background-color: lightblue;
+border: solid;
+flex: left;
+border-box: box-sizing;
+}
+
+
+
+
+

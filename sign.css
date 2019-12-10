@@ -1,0 +1,17 @@
+body{
+background-color: lightblue;
+background-size: cover;
+}
+
+.title{
+text-align: center;
+}
+
+.form {
+position: absolute;
+height: 50%;
+width: 50%;
+padding: 14px 20 px;
+border: solid;
+}
+
